@@ -1,0 +1,28 @@
+html {
+    background-color: #4f6983;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #354657;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+  }
+  body{
+     h1 {
+         font-style: oblique;
+     }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
+
+.container{
+    text-align: center;
+    border: 2px solid;
+    border-color: #6498cb;
+    border-radius: 10px;
+    
+}
+
+
